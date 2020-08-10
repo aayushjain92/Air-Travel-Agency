@@ -3,7 +3,7 @@ An online travel agency
 
 ## Features:
 * An admin account to manage the travel agency:
-    *Create new Airliners
+    * Create new Airliners
     *View Airliner profiles
     *Delete Airliners
 * Airliners account to manage their flights:
