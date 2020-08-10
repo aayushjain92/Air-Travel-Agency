@@ -7,11 +7,11 @@ An online travel agency
   * View Airliner profiles
   * Delete Airliners
 * Airliners account to manage their flights:
-    *Airliners can manage their flight schedule
-    *Airliners can add or delete an airplane from their fleet
+  * Airliners can manage their flight schedule
+  * Airliners can add or delete an airplane from their fleet
 * Customers account
-    *Search for best flights across all airliners
-    *Book reservation on a flight 
+  * Search for best flights across all airliners
+  * Book reservation on a flight 
 
 ## Steps to execute 
 1. Open application in Netbeans/Eclipse 
